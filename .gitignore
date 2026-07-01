@@ -1,0 +1,8 @@
+projects/
+memory/
+archive/
+.agents/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
